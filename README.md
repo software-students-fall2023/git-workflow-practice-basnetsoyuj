@@ -9,3 +9,9 @@ The adoption of Software 2.0 has been driven by the growing complexity of proble
 However, I also appreciated the balanced view offered in this piece. The author does not shy away from discussing the limitations of the Software 2.0 stack, a crucial point being the 'black box' nature of these networks, which presents a big challenge in terms of accountability and debugging.
 
 Overall, this article drives home the exciting future of machine learning, pushing us to contemplate future programming and software paradigms. As a computer science student, it reinforces the ever-evolving nature of technological fields and the need for constant learning and adaptation. It leaves me pondering the future of software engineering.
+
+
+
+Alessandro Landi:
+I really enjoyed reading this article and I can appreciate the perspective the author delivers about Software 2.0. I think more people are becoming cautious of these new software development tools which aren't yet a replacement for software engineers.
+
