@@ -9,3 +9,7 @@ The adoption of Software 2.0 has been driven by the growing complexity of proble
 However, I also appreciated the balanced view offered in this piece. The author does not shy away from discussing the limitations of the Software 2.0 stack, a crucial point being the 'black box' nature of these networks, which presents a big challenge in terms of accountability and debugging.
 
 Overall, this article drives home the exciting future of machine learning, pushing us to contemplate future programming and software paradigms. As a computer science student, it reinforces the ever-evolving nature of technological fields and the need for constant learning and adaptation. It leaves me pondering the future of software engineering.
+
+## Comments 
+- [**Aavishkar Gautam**](https://github.com/aavishkar6): The article provides an overview of the shift in software development. As opposed to the explicit instructions written to solve a specific problem, the software trend is shifting towards the use of neural networks to solve problems. The advances in machine learning algorithms and the availability of huge amounts of data support the development of neural networks capable of solving problems that were once explicitly coded. As an aspiring software developer, this is a great resource to learn about the shifts and trends in the industry and update yourself constantly.
+- 
